@@ -1,0 +1,6 @@
+All Rights Reserved © 2025 Nima Norouzi
+
+This software and its contents, including all source code, assets, and documentation, are the exclusive intellectual property of Nima Norouzi.  
+Unauthorized use, reproduction, distribution, or modification without express written permission is strictly prohibited.
+
+This codebase was created solely by Nima Norouzi and is not licensed for public or private use.

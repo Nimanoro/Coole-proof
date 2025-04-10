@@ -1,0 +1,1 @@
+This repo documents the original authorship of the Coole codebase developed between Feb–Apr 2025 by Nima Norouzi. All commits, backend logic, routes, and design systems were created independently by Nima Norouzi.
